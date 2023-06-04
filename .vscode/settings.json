@@ -26,6 +26,7 @@
         "thread": "cpp",
         "tuple": "cpp",
         "compare": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "iostream": "cpp"
     }
 }
